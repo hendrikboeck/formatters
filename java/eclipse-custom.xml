@@ -34,7 +34,7 @@
         <setting id="org.eclipse.jdt.core.formatter.insert_space_after_semicolon_in_for"
             value="insert" />
         <setting id="org.eclipse.jdt.core.formatter.align_with_spaces" value="false" />
-        <setting id="org.eclipse.jdt.core.formatter.continuation_indentation" value="4" />
+        <setting id="org.eclipse.jdt.core.formatter.continuation_indentation" value="1" />
         <setting id="org.eclipse.jdt.core.formatter.number_of_blank_lines_before_code_block"
             value="0" />
         <setting
@@ -665,7 +665,7 @@
         <setting id="org.eclipse.jdt.core.formatter.insert_space_after_semicolon_in_try_resources"
             value="insert" />
         <setting id="org.eclipse.jdt.core.formatter.continuation_indentation_for_array_initializer"
-            value="4" />
+            value="1" />
         <setting id="org.eclipse.jdt.core.formatter.insert_space_after_question_in_wildcard"
             value="do not insert" />
         <setting
